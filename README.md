@@ -24,6 +24,11 @@ Slides for presentation "Verification of Autonomous Systems," with Aaron Dutle a
 
 Presented to NASA System-Wide Safety Technical Challenge 4 (Complex Autonomous Systems Assurance) Closeout at George Washington University. Research attributions may be found in the slides.
 
+### 250930-NASA-TM-20250009438
+*Specifying Convolutions in PVS with an Executable Model in Typed Racket*
+
+This report was part of the unscheduled closeout of the Aerial AId project. It documents early work performed to integrate formal methods techniques into an evolving, iterative engineering process.
+
 ## Formalities
 
 NASA affiliated material is available from https://sti.nasa.gov. Other material is copyright (c) John V Siratt, All Rights Reserved, unless otherwise noted.
