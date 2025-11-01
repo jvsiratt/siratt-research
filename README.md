@@ -9,6 +9,11 @@ A place to store slides, notes, and reports. It's easier to share a link to one 
 
 Report on summer internship work regarding Interval Predictor Models.
 
+### 190424-MS-presentation
+*Master's Presentation: Safety Concepts in Machine Learning*
+
+Discussion of problems involving safety analysis of machine learning.
+
 ### 211027-ND-rev-math-presentation and 211117-ND-forcing-presentation
 *A Gentle Introduction to Reverse Mathematics* (Part one)
 
