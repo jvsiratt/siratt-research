@@ -9,6 +9,13 @@ A place to store slides, notes, and reports. It's easier to share a link to one 
 
 Report on summer internship work regarding Interval Predictor Models.
 
+### 211027-ND-rev-math-presentation and 211117-ND-forcing-presentation
+*A Gentle Introduction to Reverse Mathematics* (Part one)
+
+*Conservation, Forcing, and Speedup in Reverse Math* (Part two)
+
+Presented to the Notre Dame Math Department Logic Seminar.
+
 ### 240710-ND-dissertation
 *Some Applications of Formal Mathematics*
 
