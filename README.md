@@ -21,10 +21,12 @@ Discussion of problems involving safety analysis of machine learning.
 
 Presented to the Notre Dame Math Department Logic Seminar.
 
-### 240710-ND-dissertation
+### 240710-ND-dissertation and 240624-ND-dissert-defense-presentation
 *Some Applications of Formal Mathematics*
+and
+*In defense of Some Applications of Formal Mathematics*
 
-Doctoral dissertation, University of Notre Dame Department of Mathematics.
+Doctoral dissertation and accompanying slides for its defense, University of Notre Dame Department of Mathematics.
 
 ### 250303-JHUAPL-FM-presentation
 Slides for presentation "Interactive Theorem Proving and Applications at NASA"
